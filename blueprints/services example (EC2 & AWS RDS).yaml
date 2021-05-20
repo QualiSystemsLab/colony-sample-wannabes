@@ -7,7 +7,7 @@ metadata:
     Java application with a managed RDS database deployed with TerraForm.
 
 clouds:
-  - AWS Ophir: eu-central-1
+  - AWS: eu-central-1
 
 # These are the blueprint parameters and their default values.
 # The values can be changed when creating a sandbox based on this
