@@ -5,7 +5,7 @@ metadata:
     Classic 3 tier application on 3 EC2 instances using MongoDB + Express + React + Node.js
     
 clouds: 
-  - AWS Ophir: eu-central-1
+  - AWS: eu-central-1
   
 artifacts:
   - movies-ui: movies-ui.zip
