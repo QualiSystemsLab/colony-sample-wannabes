@@ -44,7 +44,7 @@ source:
     # to create a new EC2 instance in the defined AWS region
     ami:
       - id: ami-0a86f18b52e547759
-        region: eu-central-1
+        region: eu-west-1
         username: ubuntu
     azure_image:
       - urn: Canonical:UbuntuServer:16.04-LTS:latest
