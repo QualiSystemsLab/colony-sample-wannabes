@@ -43,7 +43,7 @@ source:
     # This is a clean Ubuntu server image that will be used
     # to create a new EC2 instance in the defined AWS region
     ami:
-      - id: ami-0a86f18b52e547759
+      - id: ami-038d7b856fe7557b3
         region: eu-west-1
         username: ubuntu
     azure_image:
